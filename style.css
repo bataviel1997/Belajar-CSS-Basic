@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(65, 151, 123);
+}
+/* perubahan tag untuk h1 */
+h1{
+  color:rgb(226, 178, 21);
+}
+
+/* select dengan class */
+.text1 {
+  color: aliceblue;
+}
+/* select dengan id*/
+#text2 {
+  color: blue;
+}
+
+h3 {
+  color: blue;
+  font-size: 32px;
+  font-weight: 200;
+}
+
